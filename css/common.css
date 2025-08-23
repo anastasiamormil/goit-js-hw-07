@@ -157,6 +157,8 @@ label {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  display: block;
+  margin: 0 auto;
 }
 .btn:hover {
   background: #6c8cff;
